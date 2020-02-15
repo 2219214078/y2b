@@ -1,9 +1,9 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyA8AUVjEJXKneqoBC6Vxzr_sXm_SImgOPw');
+define('APIKEY', 'AIzaSyBfyuRPJ8JdK0Czh5Tr0NCCGtw1K1YV7xM');
 define('GJ_CODE', 'US');
-define('SITE_NAME', 'y2b');
-define('TITLENAME', 'y2b');
+define('SITE_NAME', 'youtubaba');
+define('TITLENAME', 'youtubaba');
 define('EN2DEKEY', '32123wwerwer323tgfdgds');
 define('EMAIL', '1334347212@qq.com');
 define('NAME', 'admin');
